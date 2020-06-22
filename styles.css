@@ -1,10 +1,10 @@
 *, *::before, *::after {
     box-sizing: border-box;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Franklin Gothic Medium';
 }
 
 :root{
-    --hue-neutral: 200;
+    --hue-neutral: 230;
     --hue-wrong: 0;
     --hue-correct: 145;
 }
